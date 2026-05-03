@@ -4,9 +4,9 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAguAOZfTiS3y-y_B6jVmrbRpiKNgMZSns",
-  authDomain: "lumina-9c7e8.firebaseapp.com",
-  projectId: "lumina-9c7e8",
+  apiKey: "Your Api Key",
+  authDomain: "Your Domain Name ",
+  projectId: "Your Project Id Name",
   storageBucket: "lumina-9c7e8.firebasestorage.app",
   messagingSenderId: "449098973175",
   appId: "1:449098973175:web:d225afc00da7778044f8f2",
